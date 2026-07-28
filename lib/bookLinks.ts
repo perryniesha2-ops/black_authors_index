@@ -15,7 +15,7 @@
 // margin to independent bookstores — a good fit for a mission-driven catalog.
 // Sign up at https://bookshop.org/affiliates, then paste your ID here.
 
-export const BOOKSHOP_AFFILIATE_ID = ""; // e.g. "12345"
+export const BOOKSHOP_AFFILIATE_ID = "126648"; // e.g. "12345"
 
 export interface Retailer {
   id: string;
